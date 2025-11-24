@@ -1,5 +1,11 @@
 # Server-Sent Events Example
 
+
+
+https://github.com/user-attachments/assets/f4ab2e00-e4d8-46b9-aada-ad9e4f9f4e91
+
+
+
 This repository is a batteries-included example that shows how to wire up
 server-sent events (SSE) end to end. A small Express + TypeScript server emits
 JSON payloads over an SSE stream, and a Vite/React (TypeScript) client consumes
